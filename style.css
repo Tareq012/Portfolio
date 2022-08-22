@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body-style{
+    background-color: rgb(255, 30, 79);
+}
+.header{
+    height: 200vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+    text-transform: uppercase;
+
+}
+.icon-bar{
+    background: darkorange;
+}
+.big-text{
+    font: size 48px;
+    margin: 18px 0;
+    color:green;
+}
+.bold-text{
+    font: size 50px;
+}
